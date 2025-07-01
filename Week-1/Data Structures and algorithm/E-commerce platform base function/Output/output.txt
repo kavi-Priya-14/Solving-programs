@@ -1,0 +1,7 @@
+=== Linear Search ===
+ID: P103, Name: Shoes, Category: Fashion
+
+=== Binary Search ===
+ID: P103, Name: Shoes, Category: Fashion
+
+
