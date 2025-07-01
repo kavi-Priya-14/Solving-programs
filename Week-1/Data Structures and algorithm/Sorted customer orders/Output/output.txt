@@ -1,0 +1,11 @@
+=== Bubble Sort (Descending by Total Price) ===
+Order ID: O103, Customer: Charlie, Total Price: ₹8000.0
+Order ID: O101, Customer: Alice, Total Price: ₹4500.0
+Order ID: O102, Customer: Bob, Total Price: ₹3200.0
+Order ID: O104, Customer: Diana, Total Price: ₹1200.0
+
+=== Quick Sort (Descending by Total Price) ===
+Order ID: O103, Customer: Charlie, Total Price: ₹8000.0
+Order ID: O101, Customer: Alice, Total Price: ₹4500.0
+Order ID: O102, Customer: Bob, Total Price: ₹3200.0
+Order ID: O104, Customer: Diana, Total Price: ₹1200.0
