@@ -1,0 +1,13 @@
+=== Initial Inventory ===
+ProductID: P101, Name: Laptop, Quantity: 10, Price: ₹55000.0
+ProductID: P102, Name: Mouse, Quantity: 50, Price: ₹500.0
+ProductID: P103, Name: Keyboard, Quantity: 40, Price: ₹1500.0
+
+=== After Updating Mouse ===
+ProductID: P101, Name: Laptop, Quantity: 10, Price: ₹55000.0
+ProductID: P102, Name: Mouse, Quantity: 45, Price: ₹520.0
+ProductID: P103, Name: Keyboard, Quantity: 40, Price: ₹1500.0
+
+=== After Deleting Laptop ===
+ProductID: P102, Name: Mouse, Quantity: 45, Price: ₹520.0
+ProductID: P103, Name: Keyboard, Quantity: 40, Price: ₹1500.0
