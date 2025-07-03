@@ -1,0 +1,14 @@
+=== All Employees ===
+ID: E101, Name: Alice, Position: Manager, Salary: ₹60000.0
+ID: E102, Name: Bob, Position: Engineer, Salary: ₹40000.0
+ID: E103, Name: Charlie, Position: HR, Salary: ₹35000.0
+
+=== Searching for E102 ===
+ID: E102, Name: Bob, Position: Engineer, Salary: ₹40000.0
+
+=== Deleting E102 ===
+Employee E102 deleted.
+
+=== All Employees After Deletion ===
+ID: E101, Name: Alice, Position: Manager, Salary: ₹60000.0
+ID: E103, Name: Charlie, Position: HR, Salary: ₹35000.0
