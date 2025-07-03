@@ -1,0 +1,14 @@
+=== All Tasks ===
+Task ID: T001, Name: Design Database, Status: Pending
+Task ID: T002, Name: Write API, Status: In Progress
+Task ID: T003, Name: Testing, Status: Pending
+
+=== Search Task T002 ===
+Task ID: T002, Name: Write API, Status: In Progress
+
+=== Delete Task T002 ===
+Task T002 deleted.
+
+=== All Tasks After Deletion ===
+Task ID: T001, Name: Design Database, Status: Pending
+Task ID: T003, Name: Testing, Status: Pending
