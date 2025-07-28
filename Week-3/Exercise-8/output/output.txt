@@ -1,0 +1,3 @@
+[AOP] Before method execution
+Book: Refactoring by Martin Fowler
+[AOP] After method execution
