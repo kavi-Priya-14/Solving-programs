@@ -1,1 +1,2 @@
-Book: Head First Java by Kathy Sierra
+Book: Java: The Complete Reference by Herbert Schildt
+
